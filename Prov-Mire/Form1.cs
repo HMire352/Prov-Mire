@@ -7,7 +7,7 @@ namespace Prov_Mire
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //
             comboBox1.Items.Add(10);
             comboBox1.Items.Add(20);
 
